@@ -1,0 +1,157 @@
+
+ .is-fullheight-with-navbar{
+
+    background:url('img/background.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+    position: relative;
+}
+
+ a {
+     color: #996666;
+    font-family: Berlin, Sans FB Demi ;
+    font-style: initial ; 
+}
+
+ .buttonstyle{ 
+font-family: "MV Boli" ;
+border-color: #999999;
+border-width: 1px;
+cursor: pointer;
+justify-content: center;
+padding-bottom: calc(.5em - 1px);
+padding-left: 1em;
+padding-right: 1em;
+padding-top: calc(.5em - 1px);
+text-align: center;
+white-space: nowrap;
+margin: 20px 0px 20px 20px ;
+}
+.sign-up  {  
+    background-color: #999999;
+    color: #ffcccc;}
+
+.log-in{
+    background-color: #ffcccc;
+    color:  #999999;
+}
+
+.hero.is-link {
+    background-color:#ffffff;
+
+}
+/* {
+position: relative;
+top: 3rem;
+left: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 522px;
+    height:800px;
+}  */
+#title{
+font-family:Acme ;
+color: #333366;
+    font-size: 7rem;
+    margin-left: 100px
+
+}
+#subtitle{
+    color:#663333 ;
+    font-family: Agency FB ;
+    font-size: 1.5rem;
+    letter-spacing: 0.3rem;
+    
+}
+.hero.is-link .navbar-item, .hero.is-link .navbar-link{
+    color:#663333 ;
+}
+
+/* ------------------------------------------------------section2------------------- */
+
+.title.section-title {
+    font-size: 3rem !important;
+}
+
+.section2img{
+    width:200px;
+     height:200px;
+
+}
+.subtitle{
+    font-size: 40px;
+    display: block;
+    color: #663333 ;
+    font-family: " bernard mt";
+}
+/*---------------------------------------section3,4,5,6---------------------------------------*/
+
+/* 
+a{ text-decoration: none ; }
+a:link , a:visited {color :#333366 ;} 
+a:hover , a:active {color :#333366 ; } 
+
+.category-list {
+    background: #663333 ;
+    text-align: center ;
+    list-style: none ;
+    margin: 0% auto ;
+    font-size: 90% ;
+    line-height: 4;
+    font-weight: bold ;
+}
+
+.category-list > li { display: inline ;}
+
+.category-list a:link , .category-list a:visited { color:#996666; padding: 10px 40px; display: inline-block ; height:20px ;}
+
+.category-list a:link , .category-list a:active { color:#999999; text-shadow: none ; }
+
+.category-list a:link , .category-list a:hover { color :#333366 ; text-shadow: 0px 0px 5px #999999 ;
+} */
+.maincontent{
+    width: 70%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+
+
+
+.flex-card.is-post {
+    border-radius: 8px;
+
+}
+.flex-card.light-bordered {
+    border: 1px solid #e5e5e5 !important;
+
+}
+.padding-20 {
+    padding: 20px;
+}
+.no-margin-bottom {
+    margin-bottom: 0 !important;
+}
+.btn-align-md{
+    cursor: default;
+}
+.flex-card {
+    position: relative;
+    background-color: #663333;
+    border: 1px solid #fcfcfc;
+    border-radius: 0.1875rem;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 20px;
+    transition: all 0.5s;
+    text-align: center !important;
+color:#999999 ;
+}
+.card-action{
+
+    margin-top: 10px
+}
+/* -------------------------------------------------------------------------------- */
